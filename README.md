@@ -261,3 +261,5 @@ Inc\HH\
 所有全域變數集中在 `HH_Globals.au3`，各模組只放函式。
 
 **本機服務**：閱讀器透過 `127.0.0.1:19860`～`19899` 的本機服務提供 CHM 內容，只接受本機連線，並禁止路徑穿越。
+
+<a href="https://portaly.cc/grayfree/support"><img src="donate_badge.png" alt="贊助作者" width="164"></a>
